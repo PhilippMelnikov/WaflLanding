@@ -1,0 +1,35 @@
+
+
+@font-face {
+    font-family: "lemonTuesday";
+    src: url("../fonts/Lemon Tuesday/fonts/Lemon Tuesday.eot");
+    src: url("../fonts/Lemon Tuesday/fonts/Lemon Tuesday.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Lemon Tuesday/fonts/Lemon Tuesday.woff") format("woff"),
+    url("../fonts/Lemon Tuesday/fonts/Lemon Tuesday.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Gilroy-ExtraBold";
+    src: url("../fonts/Radomir Tinkov - Gilroy-ExtraBold/fonts/Radomir Tinkov - Gilroy-ExtraBold.eot");
+    src: url("../fonts/Radomir Tinkov - Gilroy-ExtraBold/fonts/Radomir Tinkov - Gilroy-ExtraBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Radomir Tinkov - Gilroy-ExtraBold/fonts/Radomir Tinkov - Gilroy-ExtraBold.woff") format("woff"),
+    url("../fonts/Radomir Tinkov - Gilroy-ExtraBold/fonts/Radomir Tinkov - Gilroy-ExtraBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+@font-face {
+    font-family: "Gilroy-Light";
+    src: url("../fonts/Radomir Tinkov - Gilroy-Light/fonts/Radomir Tinkov - Gilroy-Light.eot");
+    src: url("../fonts/Radomir Tinkov - Gilroy-Light/fonts/Radomir Tinkov - Gilroy-Light.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/Radomir Tinkov - Gilroy-Light/fonts/Radomir Tinkov - Gilroy-Light.woff") format("woff"),
+    url("../fonts/Radomir Tinkov - Gilroy-Light/fonts/Radomir Tinkov - Gilroy-Light.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
